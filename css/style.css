@@ -1,3 +1,11 @@
 .bikerz-zone-icon{
     background-color: rgb(224, 136, 136);
 }
+ul.f1 li,ul.f2 li,ul.f3 li,ul.f4{
+    list-style: none;
+}
+
+ul.f1,ul.f2,ul.f3{
+    display: flex;
+    gap:20px;
+}
